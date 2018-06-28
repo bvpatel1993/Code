@@ -1,0 +1,4 @@
+#Thu Jun 28 15:39:11 EDT 2018
+base.0=C\:\\Users\\NEW\\Desktop\\Genius Plaza\\Testing2(Updated)\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

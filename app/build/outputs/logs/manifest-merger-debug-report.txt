@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72ffd41f3ca53db846bf677fd2f2da75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\09f9f4730a0b7a524a83b0bb6678e876\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\41eb86816b966c28a482f930b1e41ea3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\745334ce8564d06e413fb8ac267ae74b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a3704f2d96598c3e164854df80fd6135\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f78e38157c8ec02a8b2794bdad5379af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6e7e33a6d24615b2ddfb1f4f131d5753\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\38ff114176dc451f8c7af0a1474c6274\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b23ec6844ae485a8fd66f3cac1fa0f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a875125760e66820c27847bc5fb2e52f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb05ac9eb0a90aebab1025e1357c5e7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2689df208252d987211066533a72ae6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5d916e6337f7b644939d4f87e88ec74a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9fccc1dc824ab72050b00bd87b74ba5b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb001731f0bb27bacb518e2ce5658355\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\20f36210893b2963e7668b5453eb4ec2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4cdf4efcf6d12472eed2f49329052cae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b52c3bd8b5e9e0a7fec6236f429a10b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\745334ce8564d06e413fb8ac267ae74b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\745334ce8564d06e413fb8ac267ae74b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.darkweb.android.testing2.MainActivity
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72ffd41f3ca53db846bf677fd2f2da75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72ffd41f3ca53db846bf677fd2f2da75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\09f9f4730a0b7a524a83b0bb6678e876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\09f9f4730a0b7a524a83b0bb6678e876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\41eb86816b966c28a482f930b1e41ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\41eb86816b966c28a482f930b1e41ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\745334ce8564d06e413fb8ac267ae74b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\745334ce8564d06e413fb8ac267ae74b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a3704f2d96598c3e164854df80fd6135\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a3704f2d96598c3e164854df80fd6135\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f78e38157c8ec02a8b2794bdad5379af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f78e38157c8ec02a8b2794bdad5379af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6e7e33a6d24615b2ddfb1f4f131d5753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6e7e33a6d24615b2ddfb1f4f131d5753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\38ff114176dc451f8c7af0a1474c6274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\38ff114176dc451f8c7af0a1474c6274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b23ec6844ae485a8fd66f3cac1fa0f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b23ec6844ae485a8fd66f3cac1fa0f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a875125760e66820c27847bc5fb2e52f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a875125760e66820c27847bc5fb2e52f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb05ac9eb0a90aebab1025e1357c5e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb05ac9eb0a90aebab1025e1357c5e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2689df208252d987211066533a72ae6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2689df208252d987211066533a72ae6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5d916e6337f7b644939d4f87e88ec74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5d916e6337f7b644939d4f87e88ec74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9fccc1dc824ab72050b00bd87b74ba5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9fccc1dc824ab72050b00bd87b74ba5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb001731f0bb27bacb518e2ce5658355\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb001731f0bb27bacb518e2ce5658355\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\20f36210893b2963e7668b5453eb4ec2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\20f36210893b2963e7668b5453eb4ec2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4cdf4efcf6d12472eed2f49329052cae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4cdf4efcf6d12472eed2f49329052cae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b52c3bd8b5e9e0a7fec6236f429a10b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\NEW\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b52c3bd8b5e9e0a7fec6236f429a10b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NEW\Desktop\Genius Plaza\Testing2(Updated)\app\src\main\AndroidManifest.xml
